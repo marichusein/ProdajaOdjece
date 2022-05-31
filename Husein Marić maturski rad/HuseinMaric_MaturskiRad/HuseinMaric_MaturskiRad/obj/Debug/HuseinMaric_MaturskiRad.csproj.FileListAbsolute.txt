@@ -1,0 +1,34 @@
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\bin\Debug\HuseinMaric_MaturskiRad.exe.config
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\bin\Debug\HuseinMaric_MaturskiRad.exe
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\bin\Debug\HuseinMaric_MaturskiRad.pdb
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.csprojAssemblyReference.cache
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Form1.resources
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Properties.Resources.resources
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.csproj.GenerateResource.cache
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.csproj.CoreCompileInputs.cache
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.exe
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.pdb
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Form2.resources
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Form3.resources
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Form4.resources
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Form5.resources
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Form6.resources
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Form7.resources
+C:\Users\husei\source\repos\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Form8.resources
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\bin\Debug\HuseinMaric_MaturskiRad.exe.config
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\bin\Debug\HuseinMaric_MaturskiRad.exe
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\bin\Debug\HuseinMaric_MaturskiRad.pdb
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.csprojAssemblyReference.cache
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Form2.resources
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Form3.resources
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Form4.resources
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Form5.resources
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Form6.resources
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Form7.resources
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Form8.resources
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Form1.resources
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.Properties.Resources.resources
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.csproj.GenerateResource.cache
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.csproj.CoreCompileInputs.cache
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.exe
+C:\Users\husei\Desktop\ProdajaOdjece\Husein Marić maturski rad\HuseinMaric_MaturskiRad\HuseinMaric_MaturskiRad\obj\Debug\HuseinMaric_MaturskiRad.pdb
